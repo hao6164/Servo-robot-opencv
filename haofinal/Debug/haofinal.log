@@ -1,0 +1,34 @@
+﻿生成启动时间为 2014/4/10 11:59:29。
+     1>项目“G:\2014program\haofinal\haofinal\haofinal.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\Program Files win8.1(x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\CameraDS.cpp "..\源.cpp"
+         源.cpp
+     1>g:\2014program\haofinal\源.cpp(374): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2014program\haofinal\源.cpp(376): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2014program\haofinal\源.cpp(381): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2014program\haofinal\源.cpp(383): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2014program\haofinal\源.cpp(396): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2014program\haofinal\源.cpp(408): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2014program\haofinal\源.cpp(412): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2014program\haofinal\源.cpp(416): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2014program\haofinal\源.cpp(431): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\2014program\haofinal\源.cpp(451): warning C4101: “cvpointlast”: 未引用的局部变量
+     1>g:\2014program\haofinal\源.cpp(482): warning C4305: “初始化”: 从“double”到“float”截断
+     1>g:\2014program\haofinal\源.cpp(495): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\2014program\haofinal\源.cpp(497): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\2014program\haofinal\源.cpp(507): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\2014program\haofinal\源.cpp(511): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\2014program\haofinal\源.cpp(533): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\2014program\haofinal\源.cpp(537): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\2014program\haofinal\源.cpp(651): warning C4018: “<”: 有符号/无符号不匹配
+         CameraDS.cpp
+         正在生成代码...
+       Link:
+         G:\Program Files win8.1(x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\2014program\haofinal\Debug\haofinal.exe" /INCREMENTAL /NOLOGO opencv_calib3d248d.lib opencv_contrib248d.lib opencv_core248d.lib opencv_features2d248d.lib opencv_flann248d.lib opencv_gpu248d.lib opencv_highgui248d.lib opencv_imgproc248d.lib opencv_legacy248d.lib opencv_ml248d.lib opencv_nonfree248d.lib opencv_objdetect248d.lib opencv_photo248d.lib opencv_stitching248d.lib opencv_ts248d.lib opencv_video248d.lib opencv_videostab248d.lib opencv_calib3d248.lib opencv_contrib248.lib opencv_core248.lib opencv_features2d248.lib opencv_flann248.lib opencv_gpu248.lib opencv_highgui248.lib opencv_imgproc248.lib opencv_legacy248.lib opencv_ml248.lib opencv_nonfree248.lib opencv_objdetect248.lib opencv_photo248.lib opencv_stitching248.lib opencv_ts248.lib opencv_video248.lib opencv_videostab248.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\2014program\haofinal\Debug\haofinal.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\2014program\haofinal\Debug\haofinal.lib" /MACHINE:X86 Debug\CameraDS.obj
+         "Debug\源.obj"
+         haofinal.vcxproj -> G:\2014program\haofinal\Debug\haofinal.exe
+     1>已完成生成项目“G:\2014program\haofinal\haofinal\haofinal.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.69
